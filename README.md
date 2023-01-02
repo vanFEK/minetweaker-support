@@ -29,10 +29,10 @@ output и inputs - это обозначения, для чего эти пре�
 ## Supported modifications:
 
 ### 1.7.10:
-1. AgriCraft
-2. Applied Energistics 2
-3. Aura Cascade
-4. Botania
-5. Botanical Addons
-6. Chisel
-7. Ex Nihilo
+1. **AgriCraft** (original code)
+2. **Applied Energistics 2** (modtweaker2)
+3. **Aura Cascade** (modtweaker2)
+4. **Botania** (modtweaker2)
+5. **Botanical Addons** (modtweaker2)
+6. **Chisel** (modtweaker2)
+7. **Ex Nihilo** (modtweaker2)
