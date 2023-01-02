@@ -1,10 +1,10 @@
 # minetweaker-support
 
 ## EN:
-Examples for writing scripts will be published in this repository. Currently supported versions: 1.7.10 and 1.12.2.<br/>
+Examples for writing scripts will be published in this repository. Currently supported versions: 1.7.10 and 1.12.2.
 Examples for newer versions will be written in the future. For older versions, examples will not be published.<br/>
-I am not the author of these modifications. This repository is a single place where layouts for scripting are stored.<br/>
-Discord channel for suggestions, communication, and issues: https://discord.gg/XFMHYtqXYp
+**I am not the author of these modifications**. This repository is a single place where layouts for scripting are stored.<br/>
+>**Discord channel for suggestions, communication, and issues: https://discord.gg/XFMHYtqXYp**
 
 ### Notation in scripts:
 For example, there is a line: mods.agricraft.CustomWood.addShapeless(IItemStack output, IItemStack[] inputs);<br/>
@@ -14,10 +14,10 @@ output and inputs are designations for what these items are needed.<br/>
 
 
 ## RU:
-В этом репозиторие будут публиковаться примеры для написания скриптов. На данный момент поддерживаются версии: 1.7.10 и 1.12.2.<br/>
+В этом репозиторие будут публиковаться примеры для написания скриптов. На данный момент поддерживаются версии: 1.7.10 и 1.12.2.
 В будущем будут написаны примеры для более новых версий. Для более старых версий примеры публиковаться не будут.<br/>
-Я не являюсь автором этих модификаций. Этот репозиторий - единое место, где хранятся макеты для написания скриптов.<br/>
-Канал Discord для предложений, общения и сообщении о проблемах: https://discord.gg/XFMHYtqXYp
+**Я не являюсь автором этих модификаций**. Этот репозиторий - единое место, где хранятся макеты для написания скриптов.<br/>
+>**Канал Discord для предложений, общения и сообщении о проблемах: https://discord.gg/XFMHYtqXYp**
 
 ### Основные обозначения в скриптах:
 Например, есть строка: mods.agricraft.CustomWood.addShapeless(IItemStack output, IItemStack[] inputs);<br/>
